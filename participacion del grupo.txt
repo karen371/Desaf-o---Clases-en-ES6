@@ -1,0 +1,9 @@
+Trabajo de queda integrante del grupo
+
+Yadira Espinoza: Realizó Clase 1 de Cliente
+
+Alexis Núñez : Realizó Clase 2 de Impuestos
+
+Karen Godoy:  Realizó main
+
+Cristian Ávila: Realizó la transpiración en babel de ES6 a ES5 
